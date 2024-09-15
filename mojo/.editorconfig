@@ -1,0 +1,5 @@
+[{*.mojo,*.🔥}]
+# Tabs and Indents
+ij_mojo_tab_width = 3
+ij_mojo_indent_size = 3
+ij_continuation_indent_size = 3
