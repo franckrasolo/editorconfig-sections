@@ -1,0 +1,6 @@
+[{*.toml,Cargo.lock,Cargo.toml.orig,Gopkg.lock,Pipfile,poetry.lock}]
+# Tabs and Indents
+ij_toml_tab_width = 4
+ij_toml_indent_size = 4
+ij_toml_continuation_indent_size = 8
+ij_toml_keep_indents_on_empty_lines = false
