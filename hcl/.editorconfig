@@ -1,0 +1,44 @@
+[{*.hcl,*.nomad}]
+# Tabs and Indents
+ij_hcl_tab_width = 4
+ij_hcl_indent_size = 2
+ij_hcl_continuation_indent_size = 8
+ij_hcl_keep_indents_on_empty_lines = false
+
+# Spaces
+## Around operators
+ij_hcl_spaces_around_assignment_operators = true
+
+## Within
+ij_hcl_spaces_within_braces = false
+ij_hcl_spaces_within_brackets = false
+
+## Other
+ij_hcl_space_before_comma = false
+ij_hcl_space_after_comma = true
+
+# Blank Lines
+ij_hcl_keep_blank_lines_in_code = 2
+
+# Wrapping and Braces
+## Hard wrap at
+
+## Visual guides
+ij_visual_guides = unset
+
+## Keep when reformatting
+ij_hcl_keep_line_breaks = true
+
+## Ensure right margin is not exceeded
+ij_hcl_wrap_long_lines = false
+
+## Arrays
+ij_hcl_array_wrapping = normal
+
+## Objects
+ij_hcl_object_wrapping = normal
+
+# Other
+## Formatting options
+ij_hcl_property_alignment = 2
+ij_hcl_property_line_commenter_character = 1
