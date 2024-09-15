@@ -16,3 +16,7 @@ max_line_length = 120
 
 ij_smart_tabs = false
 ij_wrap_on_typing = false
+
+ij_formatter_on_tag = @formatter:on
+ij_formatter_off_tag = @formatter:off
+ij_formatter_tags_enabled = true
