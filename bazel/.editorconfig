@@ -1,0 +1,6 @@
+[{*.bzl,*.sky,*.star,BUILD,BUILD.bazel,MODULE.bazel,WORKSPACE,WORKSPACE.bazel}]
+# Tabs and Indents
+ij_build_tab_width = 4
+ij_build_indent_size = 4
+ij_build_continuation_indent_size = 4
+ij_build_keep_indents_on_empty_lines = false
