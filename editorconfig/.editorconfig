@@ -1,0 +1,17 @@
+[.editorconfig]
+# Spaces
+## Around operators
+ij_editorconfig_spaces_around_assignment_operators = true
+ij_editorconfig_space_before_colon = false
+ij_editorconfig_space_after_colon = false
+
+## Other
+ij_editorconfig_space_before_comma = false
+ij_editorconfig_space_after_comma = true
+
+# Wrapping and Braces
+## Visual guides
+ij_visual_guides = unset
+
+## Group declarations
+ij_editorconfig_align_group_field_declarations = false
