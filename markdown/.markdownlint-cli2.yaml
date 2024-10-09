@@ -1,0 +1,14 @@
+# Base `markdownlint` configuration
+#
+# See https://github.com/DavidAnson/markdownlint#rules--aliases
+# and https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+# for a detailed explanation of each rule.
+config:
+  # enable this configuration
+  default: true
+
+  # rule settings listed in alphabetical order
+  line-length:          # MD013
+    line_length: 100
+
+  no-inline-html: false # MD033
