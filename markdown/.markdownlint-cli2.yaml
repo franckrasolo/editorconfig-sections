@@ -12,6 +12,7 @@ config:
   MD003: false
   MD024: false
   MD025: false
+  MD026: false
   line-length:          # MD013
     line_length: 100
 
