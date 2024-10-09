@@ -8,6 +8,7 @@ config:
   default: true
 
   # rule settings listed in alphabetical order
+  MD001: false
   line-length:          # MD013
     line_length: 100
 
